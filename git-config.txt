@@ -1,9 +1,9 @@
-git config user.name "Maciej Urbas"
-git config author.name "Maciej Urbas"
-git config committer.name "Maciej Urbas"
-git config user.email "maciej.urbas3@gmail.com"
-git config author.email "maciej.urbas3@gmail.com"
-git config committer.email "maciej.urbas3@gmail.com"
+git config --global user.name "Maciej Urbas"
+git config --global author.name "Maciej Urbas"
+git config --global committer.name "Maciej Urbas"
+git config --global user.email "maciej.urbas3@gmail.com"
+git config --global author.email "maciej.urbas3@gmail.com"
+git config --global committer.email "maciej.urbas3@gmail.com"
 
 git commit -m "first commit"
 git branch -M main
