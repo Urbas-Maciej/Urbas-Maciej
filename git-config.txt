@@ -4,3 +4,8 @@ git config committer.name "Maciej Urbas"
 git config user.email "maciej.urbas3@gmail.com"
 git config author.email "maciej.urbas3@gmail.com"
 git config committer.email "maciej.urbas3@gmail.com"
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Urbas-Maciej/maciej.urbas3.git
+git push -u origin main
