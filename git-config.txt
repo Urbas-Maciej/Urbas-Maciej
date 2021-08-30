@@ -12,5 +12,10 @@ git branch -M main
 git remote add origin https://github.com/Urbas-Maciej/maciej.urbas3.git
 git push -u origin main
 
-# Fix "Remote origin already exists" error
-git remote set-url origin https://github.com/your/repository
+# Push an existing repository from the command line
+git remote add origin https://github.com/Urbas-Maciej/maciej.urbas3.git
+git branch -M main
+git push -u origin main
+
+# Helpful command
+git remote rm origin
