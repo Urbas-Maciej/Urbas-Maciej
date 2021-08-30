@@ -5,7 +5,8 @@ git config --global user.email "maciej.urbas3@gmail.com"
 git config --global author.email "maciej.urbas3@gmail.com"
 git config --global committer.email "maciej.urbas3@gmail.com"
 
-git commit -m "first commit"
+
+git init
 git branch -M main
 git remote add origin https://github.com/Urbas-Maciej/maciej.urbas3.git
 git push -u origin main
