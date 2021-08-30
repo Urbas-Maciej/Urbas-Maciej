@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Urbas-Maciej
+- 👋 Hi, I’m @Maciej-Urbas
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on achive the goals
