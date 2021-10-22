@@ -19,3 +19,10 @@ git push -u origin main
 
 # Helpful command
 git remote rm origin
+
+# Clone the existing repository
+git branch -M main
+git remote rm origin
+git clone https://github.com/Urbas-Maciej/maciej.urbas3.git
+git remote add origin https://github.com/Urbas-Maciej/maciej.urbas3.git
+git push -u origin main
