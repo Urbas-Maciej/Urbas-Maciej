@@ -1,0 +1,21 @@
+# Install prettierrc locally
+npm install --save-dev --save-exact prettier
+
+# Create an empty config file
+echo {}> .prettierrc.json
+
+# Set config file like that
+{
+    "singleQuote": true,
+    "trailingComma": "all",
+    "semi": false,
+    "tabWidth": 4
+}
+
+
+# Format all files
+npx prettier --write .
+
+
+# For excludes add
+.prettierignore file
